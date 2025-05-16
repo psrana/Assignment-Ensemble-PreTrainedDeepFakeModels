@@ -20,3 +20,6 @@
   - 5 Result analysis and Discussion
   - 6 Conclusion and Futute works
   - 7 References
+
+### Note:
+  - If anyone adds Novelty in existing model in terms of architecture, or introduction of new layer (not use of existing layer), bringing non linearity in the architecture with reduced false positive and false negative, then extra marks will be given to the student.
