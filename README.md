@@ -11,7 +11,7 @@
    ![image](https://github.com/user-attachments/assets/762f2037-5de8-4fa6-9ab1-f1696f7c5416)
 
 ### 5. Submission Guidelines:
-   Choose any dataset (of image, audio/voice, video, text, etc) from any source (Kaggle, Hugging Face, UCI library, etc). Minimum dataset size must be 100 objects. Make the prediction from selected pre-trained models and apply emsemble. Create a shot report of 6-7 pages (similar to research paper, Reference: https://github.com/psrana/Sample-Research-Papers) only that contain
+   Choose any dataset (of image, audio/voice, video, text, etc) from any source (Kaggle, Hugging Face, UCI library, etc). Minimum dataset size must be 100 objects. Make the prediction from selected pre-trained models and apply emsemble. Create a shot paper/report of 6-10 pages (similar to research paper, Reference: https://github.com/psrana/Sample-Research-Papers) only that contain
   - Title, Student name, roll number, email id and Abstract
   - 1 Introduction
   - 2 Background
